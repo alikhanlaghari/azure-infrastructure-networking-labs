@@ -38,9 +38,14 @@ Both local and external access were tested to confirm successful deployment.
 This troubleshooting highlighted the importance of validating service
 installation in addition to infrastructure configuration.
 
-![IIS Installed](screenshots/iis-role-installed.png)
+![IIS Installed](screenshots/iis-role-installed-1.png)
+
+![IIS Installed](screenshots/iis-role-installed-2.png)
+
 ![IIS Service Running](screenshots/iis-service-running.png)
+
 ![IIS Localhost Test](screenshots/iis-localhost.png)
+
 ![IIS Public Access](screenshots/iis-public-access.png)
 
 ## Key Learnings
