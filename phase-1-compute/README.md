@@ -48,22 +48,14 @@ Both local and external access were tested to confirm successful deployment. Thi
 - Structured troubleshooting is critical for application reliability
 - Clear documentation improves operational transparency
 
-### Secure Administrative Access
-
-Administrative access to the virtual machine was controlled using
-Remote Desktop Protocol (RDP). During the lab phase, access was limited
-to trusted sources.
-
-In a production environment, public RDP access would be removed and
-replaced with Azure Bastion to provide secure, browser-based access
-without exposing the VM to the public internet.
-
-
 ## Outcome
 
-Phase 1 successfully established a secure and functional compute foundation
-by deploying a Windows Server VM, configuring network access, and hosting
-a web application using IIS. This phase provides a stable baseline for
-introducing advanced networking and security concepts in subsequent phases.
+Phase 1 successfully established a secure and functional compute foundation by deploying a Windows Server VM, configuring network access, and hosting a web application using IIS. This phase provides a stable baseline for introducing advanced networking and security concepts in subsequent phases.
+
+### Secure Administrative Access
+
+Administrative access to the virtual machine was controlled using Remote Desktop Protocol (RDP). During the lab phase, access was limited to trusted sources.
+
+In a production environment, public RDP access would be removed and replaced with Azure Bastion to provide secure, browser-based access without exposing the VM to the public internet.
 
 
