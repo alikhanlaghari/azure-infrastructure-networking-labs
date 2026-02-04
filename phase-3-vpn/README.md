@@ -48,7 +48,6 @@ This setup reflects a common enterprise remote-access pattern and aligns with AZ
 ![VM Overview](screenshots/05-vm-overview.png)
 
 ### VPN Gateway Infrastructure
-![Public IP for Gateway](screenshots/06-public-ip-vpn.png)
 ![VPN Gateway Deployed](screenshots/07-vpn-gateway-deployed.png)
 
 ### Point-to-Site Configuration
