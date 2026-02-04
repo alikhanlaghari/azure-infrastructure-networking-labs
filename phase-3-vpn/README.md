@@ -1,5 +1,4 @@
-Phase 3 — Point-to-Site VPN (Certificate-based)
+# Phase 3 – Point-to-Site VPN (Certificate-based)
 
-Your laptop will connect to Azure VNet using a VPN client.
+This phase builds a P2S VPN from a client device to an Azure VNet and verifies private connectivity to a VM.
 
-Then you will test connectivity to a VM over private IP.
